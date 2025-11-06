@@ -1,0 +1,52 @@
+Retrotink 4K XBOX Stellar & XboxHD+ Profiles
+Creator: Wobbling Pixels - Twitter: https://twitter.com/WobblingP
+Version: 1.00
+
+--------------
+Optimized for:
+--------------
+- XBOX installed with Stellar or XBOXHD+ hdmi mod
+- primary for 480p but also works with 720p, 1080i Xbox games
+- 4K (3840 x 2160) output resolution
+
+---------------------------
+Stellar & XBOXHD+ Settings
+---------------------------
+
+Access the Stellar & XBOXHD+ settings
+
+1. Go to System Settings and make sure only 480p is enabled. 
+
+2. Go to "Video Settings" and set:
+
+Target Resolution: 480p
+4:3 Widescreen: Never
+Pre-Scale 480p Correction: OFF (disable it)
+
+3. Go to "Advanced Settings" and set "HDMI Colorspace" to "RGB"
+
+4. Press B to save and exit. 
+
+-------------------
+How to use profiles
+-------------------
+
+"Xbox 720x - Sharp" - For games that are rendered and output at 720x480p
+"Xbox 640x to 720x - Sharp" - For games that are scaled by Stellar or XBOXHD+ to render resolution 
+                              of 640x480p in a 720x480p frame with PAR 10/11
+"Xbox PAR 640x - Sharp" - For games that are rendered and output at 640x480p with PAR 1:1
+
+1. Launch your Xbox game. 
+2. Access the Retrotink 4K menu.
+3. Load the profile "Xbox 720x - Sharp"
+4. Go to "Advanced Settings" -> "Scaling/Cropping" on the Retrotink 4k
+5. If you don't see black bars (pillarboxes) on the sides of the image between the blue cropping area and the
+   game image keep the profile "Xbox 720x - Sharp" and have fun. :)
+6. If you see black bars (pillarboxes) on the sides of the image between the blue cropping area and the
+   game image then load one of the two profiles:
+
+"Xbox PAR 640x - Sharp
+"Xbox 640x to 720x - Sharp"
+
+You can decide which one is more suitable for the game and you.
+Most 640x480 Xbox games should be better suitable with "Xbox PAR 640x - Sharp" profile. 

@@ -1,0 +1,62 @@
+-----------------------------------------------------
+Wobbling Pixels GBIHF (GB, GBC, GBA) GCVideo Profiles
+-----------------------------------------------------
+
+All profiles are configured for:
+
+- GCvideo 3.0 or higher version
+- GBI High-Fidelity Edition (through Swiss)
+
+---------------------
+GCVideo instructions:
+---------------------
+
+These are universal settings which work with all GCvideo profiles! 
+
+1. Access GCvideo settings by pressing and holding L, R, X and Y buttons on the GC controller.
+Set the following settings in GCvideo:
+
+In the GCVideo menu under "Other settings", set "Enhanced DVI mode" to On.
+In the GCVideo menu under "Advanced settings", set "Fix resolution" to Off and "Digital color format" to YC422. 
+
+2. Save the settings
+
+----------------------------------------------
+GBIHF instructions for all GB, GBC, GBA profiles 
+EXCEPT "GB - DMG Mask..." profiles
+----------------------------------------------
+
+Video Tutorial
+--------------
+-----------------------------------------------------
+Wobbling Pixels GBIHF (GB, GBC, GBA) GCVideo Profiles
+-----------------------------------------------------
+
+All profiles are configured for:
+
+- GCvideo 3.0 or higher version
+- GBI High-Fidelity Edition (through Swiss)
+
+---------------------
+GCVideo instructions:
+---------------------
+
+These are universal settings which work with all GCvideo profiles! 
+
+1. Access GCvideo settings by pressing and holding L, R, X and Y buttons on the GC controller.
+Set the following settings in GCvideo:
+
+In the GCVideo menu under "Other settings", set "Enhanced DVI mode" to On.
+In the GCVideo menu under "Advanced settings", set "Fix resolution" to Off and "Digital color format" to YC422. 
+
+2. Save the settings
+
+----------------------------------------------
+GBIHF instructions for all GB, GBC, GBA profiles 
+EXCEPT "GB - DMG Mask..." profiles
+----------------------------------------------
+
+Video Tutorial
+--------------
+https://youtu.be/YPknWg4OTl8?t=1289
+

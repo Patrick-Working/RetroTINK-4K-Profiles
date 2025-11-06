@@ -1,0 +1,79 @@
+==================
+===Instructions===
+==================
+
+All profiles work in 1080p and 720p unless otherwise noted.
+Profiles were tuned to NTSC games.
+Go to System Settings > TV Settings > RGB Range and select Full range
+From there go to Screen Size and make sure the scale is 100%
+Games that support Surround sound will work with the RT4K, but they're encoded in stereo, so select stereo in TV Sound.
+
+--------------------------------------
+---NES, Sega Genesis, Super NES 256---
+--------------------------------------
+These work with the NES, Genesis, and Super NES games that output 256x240 (on the Genesis this is Shining Force)
+
+1) Start up the app
+2) Press left until you hit options for the app
+3) Select Settings
+4) Under Game Screen, select Pixel Perfect
+5) Under Playable Titles, select North American Versions
+6) Under Control Display, toggle off "Show controls in game"
+7) Select your game
+8) Select the profiles
+9) If you need to use the menu, select the default profile.
+
+-----------------
+---Genesis 320---
+-----------------
+These work with most Genesis games except for Shining Force.
+1) Start up the app
+2) Press left until you hit options for the app
+3) Select Settings
+4) Under Game Screen, select Pixel Perfect
+5) Under Playable Titles, select North American Versions
+6) Under Control Display, toggle off "Show controls in game"
+7) Select your game
+8) Select the profile
+9) If you need to use the menu, select the default profile.
+
+---------------------
+---GameBoy Advance---
+---------------------
+1) Start up the app
+2) Press left until you hit options for the app
+3) Select Settings
+4) Under Game Screen, make sure "Reproduce classic feel" and "Display with small screen" are toggled off.
+5) Under Playable Titles, it does not matter since all GBA games are locked in resolution
+6) Under Control Display, make sure "Show controls in game" is toggled off
+7) Select your game
+8) Select the profile
+9) If you need to use the menu, select the default profile.
+
+---------------------------
+---GameBoy/GameBoy Color---
+---------------------------
+1) Start up the app
+2) Press left until you hit options for the app
+3) Select Settings
+4) Under Game Screen, make sure "Reproduce classic feel" and "Display with small screen" are toggled off.
+5) Under Playable Titles, it does not matter since all GBC games are locked in resolution
+6) Under Control Display, make sure "Show controls in game" is toggled off
+7) Select your game
+8) Select the profile
+9) If you need to use the menu, select the default profile.
+
+---------
+---N64---
+---------
+The N64 NSO App renders games in 720p. You will not get the sharpest picture an any way with this profile.
+This profile was made as a jumping off point for scanlines or other effects. YMMV
+
+1) Hit the Home button and make your way to System Settings
+2) Go down to TV Settings
+3) Set TV Resolution to 720p
+4) Load the app
+5) Press left until you hit options for the app
+6) Select Settings
+7) Under Playable titles, select "North American Versions"
+8) Go to "Control Display" and make sure to toggle the option off.

@@ -1,0 +1,58 @@
+Kenbakes' Neo-Retro CRT Prescaling Profiles
+
+Here are some Switch Profiles that pre-scales on the back of @Kuro Houou's  FV310 CRT Look for the following Use Cases to have sick crispy scanlines with "Neo-Retro Games", using @Try4ce's pre-scaling methods from My Life in Gaming's RT4K video.
+
+Thanks Try! Thanks Kurou!
+
+--------------------------------------------------------------------------------------------------
+
+From a Base 1080p Resolution
+
+     Neo-Retro - 1080p to 270p FV310
+          Applicable Games
+               - Hyper Light Drifter
+               - TMNT Shredders Revenge
+          Instructions
+               -Just Load the Profile and have fun!
+
+     Neo-Retro - 1080p to 270p [Tengo Aspect] FV310
+          Notes
+               -With Integer Interpolation Scaling for Use with Tengo Project Games
+          Applicable Games 
+               - Pocky & Rocky Reshrined
+               - Wild Guns Reloaded
+          Instructions
+               - Go into the Settings menu for tengo project games to set the scaling to 100 for square pixels, apply the profile and have fun!
+
+--------------------------------------------------------------------------------------------------
+
+From a Base 720p Resolution
+
+     Neo-Retro - 720p to 360p FV310
+          Applicable Games
+               - Blasphemous 1/2
+          Instructions
+               -Just Load the Profile and have fun! 
+
+     Neo-Retro - 720p to 240p FV310 
+          Applicable Games
+               - Vengful Guaridan 
+               - Blazing Chrome 
+               - Bloodstained COM 1&2
+               - Steel Assault
+               - Sonic Mania
+               - Tanuki Justice
+	       - Moon
+          Instructions
+               -Just Load the Profile and have fun!
+
+     Neo-Retro - 720p to 180p FV310
+          Applicable Games
+               - Panzer Paladin
+	       - Shovel Knight
+          Instructions
+               -Just Load the Profile and have fun!
+
+--------------------------------------------------------------------------------------------------
+
+

@@ -1,0 +1,16 @@
+Instructions for DCDigital use:
+
+1. Make sure the DCDigital is set to 480p output 
+2. Make sure the DCDigital is set to force VGA
+
+Instructions for Toro Box:
+
+1. Make sure the sync button is in the "up" position (this sets HV sync for VGA).
+2. Do NOT try to use SCART and VGA outputs at the same time. Only use VGA.
+
+Instructions for Mcbazel plain VGA cable:
+
+1. Make sure the HDMI cable is unplugged from the Dreamcast if you have DCDigital. There will be rolling interference if both are actively hooked up.
+
+
+

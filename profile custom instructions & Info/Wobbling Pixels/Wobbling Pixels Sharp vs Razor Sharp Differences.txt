@@ -1,0 +1,17 @@
+---------------
+Sharp Profiles: 
+---------------
+
++ Provide display aspect ratio as you would see on a correct calibrated CRT TV
+- A little loss in image sharpness compared to razor sharp profiles
+
+---------------------
+Razor Sharp Profiles:
+---------------------
+
+Integer scale and/or square pixels (Pixel Aspect Ratio (PAR))
+Square Pixels profiles can be the better choice with some games that are designed 
+with square pixels in mind e.g. ovals will look like circles and rectangles like squares.  
+
++ Provide a bit sharper image
+- Aspect ratio different to sharp profiles

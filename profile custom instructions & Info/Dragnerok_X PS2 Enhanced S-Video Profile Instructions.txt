@@ -1,0 +1,28 @@
+Retrotink 4K PS2 Enhanced S-Video Profile
+Creator: Dragnerok_X
+Version: 1.0
+
+--------------
+Optimized for:
+--------------
+- NTSC PS2 games running at 4:3 aspect ratios
+- 4K (3840 x 2160) output resolution
+- S-Video, routed through an adapter connected to the VGA/HD-15/DB-15 port at the back of the scaler, such as Laser Bear's excellent offering: 
+https://www.laserbear.net/products/retrotink-4k-db15-to-s-video-and-cvbs-adapter
+
+----------------
+Important notes:
+----------------
+- For best results, calibrate the luma gain and chroma shift upon first use.
+	~ Luma gain: This setting adjusts the intensity of the luma (brightness) channel. Too low will result in a dim screen, while too high 
+	will result in loss of detail in bright areas. With a patch of pure white displayed somewhere on the screen, open the RT4K OSD and 
+	navigate to the RGB/Component ADC menu, then run Auto Calibrate Gain. If done correctly, Green's "Gmax" value should reach 255.
+	~ Chroma shift: This setting adjusts the horizontal position of the chroma (color) channel relative to the luma channel. This varies 
+	from console to console, and can often be spotted as colors "bleeding" outside the edges of shapes. I recommend using small colored 
+	text to calibrate. Open the RT4K OSD and navigate to the SDP Decoder menu then adjust the Chroma Shift value up/down so that the color 
+	is relatively centered in the outline of the text/shape.
+
+- By default, this profile expects audio to be routed through the 3.5mm stereo jack, located next to the scaler's VGA port. 
+If your console uses RCA (red/white) audio connections, this can be accomplished using any 3.5mm male to RCA female adapter, such as this one: 
+https://www.amazon.com/C2G-Cables-Go-Legrand-Extension/dp/B001AVNURS/ If you would prefer to use the RCA jacks built into the scaler, or would 
+like to use S/PDIF digital audio input instead, navigate to the Audio Input menu and adjust the Input Override setting to match your connection.

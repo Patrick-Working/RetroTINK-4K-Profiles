@@ -1,0 +1,65 @@
+Profiles by Kuro Houou
+CRT Emulation
+Color Optimized Scanlines and Masks
+
+Version Notes:
+v1.0 - Initial release with SDR profiles
+v1.0.1 - HDR profiles added
+v1.0.2 - HDR BFI profiles added along with Mono Dense and Mono Medium profiles
+v1.0.3 - Added CRT Specific Simulation profiles for the Sony PVM 20L5 and a Toshiba AF25 Consumer TV.
+v1.0.4 - Added the JVC TM-H1950CG for a Shadow Mask option.
+v1.0.5 - Changed from Lanczos2 to Lanczos3 to avoid ringing.
+v1.0.6 - CRT Emulations updated with latest firmware RC1, also added images for profiles to display what type of CRT Emulation is loaded
+v1.0.7 - All profiles are now set to Triple Buffer by default, although Genlock would be recommended if your display can handle it.  Also 8bit is enabled on all profiles, again 10bit if you display can handle it would be recommended.
+v1.1.0 - Lots of updates, added the KV310 and JVC TM-H150CG profiles.  I also cleaned up a lot of the folder structure/files and did one last round of optimizations on the CRT Emulations.
+v1.1.1 - Optimized the FV310 and TM-H150CG profiles further.
+v1.1.2 - Turned off RoTATE that was accidently left on in most profiles
+v1.1.3 - Made a Toshiba AF44 SDR profile and also updated the color correction input and output options for all the other HDR CRT Emulation profiles so if you turn off HDR mode with them, they look halfway decent although probably dim.
+v1.1.4 - Updated Folder Structure
+v1.1.5 - Fixed some file names
+v1.2.0 - Made more filename changes to make things easier to see in the menu, lets go!
+v1.3.0 - Added a new set of profiles for the Incredible JVC D-Series, based on the 1999 Model 27" D200
+v1.4.0 - Decided to deprecate my generic color optimized profiles as they really aren't needed anymore and were done for analysis purposes in prep for building my CRT Emulation profiles.  CRT Emulation profiles are still color optimized and calibrated on my LG OLED TV.  Also enabled CRT Simulation and Dithering by default as well as verified use on the Retrotink 4K CE!  Default input reset to RGBS over HD15 port, some versions in earlier releases may have been changed to HDMI by accident..
+v1.4.1 - Found an issue with the FV310 profile, was set to rec709 vs Auto(2100) for HDR output.
+v1.5.0 - Updated the Sony FV310 profile, now even more accurate and like the real CRT. Using a new mask and updated processing settings.
+
+***************************************************************************************************************************************************************
+
+Warning: These profiles are saved with 4K60 output, if you don't have a 4K display and you will lose signal hit the 1080P or 720P button on the remote
+to switch resolutions to one supported by your display.
+
+The goal of these profiles is to provide very accurate of Emulation of actual CRT TV's and PVMs as possible (I own each of the TV's/PVMs for which a profile was built) with, optimized Scanlines and Masks that can be used with any combination of Scaling profiles or inputs.
+
+These profiles have been optimized for proper Video Levels as meassured by HCFR and a Calibrite Display Plus Colorimeter.
+Details on the analysis done and how the optimized profiles can be found in the paper located here, https://tinyurl.com/tink4k
+
+Profiles were created on an LG C1, although they should work similar across other makes and models, TV's with a RGB Pixel structure could have the mask strength
+increased by 1 or 2 levels and possibly look even better but going to -1 or 0 may severly impact color accuracy so be careful.  
+
+Follow best practices for inital setup of your TV settings, don't use Vivid modes, turn off all forms
+of processing, etc.. normal procedures to ensure proper display of content.  
+
+Last, all profiles are made for maximum compatibility, so it is suggested to turn on things like GenLock or 10bit color if you display supports it.
+
+***************************************************************************************************************************************************************
+
+SDR
+
+Profiles for SDR should work well across all makes and models. In order to reach proper brigthness levels after enabling the scanlines and masks, please modify
+the following settings on your TV. 
+
+1. In your TV settings, set Contrast to 100% or Max
+2. Set Panel Pixel Brightness to 100% or Max (As found on the LG OLEDs or maybe under a similar name on other OLEDs), this is
+not screen brightness as that washes out blacks.
+
+
+***************************************************************************************************************************************************************
+
+HDR and HDR with BFI
+
+1. Enable a Cinema or Game Optimized profile and disable any extra processing
+2. Turn off Tone Mapping (MUST DO!!!)
+3. Ensure Panel Pixel Brightness and Contrast at at 100%, Normal brightness should be in the middle or 50%.
+
+***************************************************************************************************************************************************************
+

@@ -1,0 +1,32 @@
+SDMasterYoda RT4K Profiles - Version 1.1
+
+******************************************
+   Analogue Nt Mini Noir Game Gear Core 
+******************************************
+
+-For HDMI Profile, set resolution to 1080p.
+
+******************************************
+      Nintendo Switch: Shovel Knight      
+******************************************
+
+-Set Console Resolution to 1080p
+-Set In Game Scaling to 1:1
+
+******************************************
+      Nintendo Switch: The Messenger      
+******************************************
+
+-Set console resolution to 720p or 1080p
+
+******************************************
+       Nintendo Switch: Gato Roboto       
+******************************************
+
+-Set Console Resolution to 720p
+
+******************************************
+              Special Thanks              
+******************************************
+
+-Marc "Try4ce" Duddleson for original Game Gear Masks

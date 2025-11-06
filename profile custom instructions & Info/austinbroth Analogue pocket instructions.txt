@@ -1,0 +1,7 @@
+Analogue pocket profiles
+
+These profiles were created to be used with the pocket dock outputting 1080p resolution on the newer dock firmware (2.0 and later). Make sure your pocket is updated as well.
+To use the GB/GBC and GBA profiles, the scale needs to be set to “integer”. Open the menu, go to Core Settings -> Display Mode. Select “Normal”. Once selected, go to Mode Settings -> Size -> Integer. Do not use integer plus.
+The profiles will now scale and apply color correction accordingly. 
+
+GB currently does not support grayscale. The Budude GB core does have a grayscale option with a mask but I have not tested it with the profiles.

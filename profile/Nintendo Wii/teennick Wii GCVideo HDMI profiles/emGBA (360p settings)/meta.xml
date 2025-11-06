@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+	<name>Enhanced mGBA</name>
+	<author>Extrems</author>
+	<version>2022-01-05</version>
+	<release_date>20220105173248</release_date>
+	<short_description>mGBA Game Boy Advance emulator</short_description>
+<ahb_access/>
+    <arguments>
+        <arg>--format=hd60</arg>
+        <arg>--scan-mode=non-interlace,clock2x,size2x</arg>
+		<arg>--aspect=4:3</arg>
+		<arg>--offset=0</arg>
+		<arg>--zoom=3</arg>
+    </arguments>
+</app>

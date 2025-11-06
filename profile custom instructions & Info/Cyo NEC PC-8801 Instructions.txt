@@ -1,0 +1,22 @@
+Retrotink 4K PC8801 24khz Profile
+Creator: Cyo - Twitter: https://twitter.com/cyothevile
+Version: 1.00
+
+--------------
+For use with the following models:
+--------------
+- Tested on PC8801MA model
+
+The profile should allow PC8801 units running BASIC with the 24khz dipswitch setting.  Games might potentially require a custom profile as needed.  This should really be a proof of concept.
+
+----------------
+Important notes:
+----------------
+
+Most modes encountered for this are running at:
+	-54.6163 Pclk rate
+	-Horizontal is 24.83 Khz
+	-Vertical is 56.42 Hz
+	-Both Sync polarities are negative
+
+If you observe another 24khz mode that visually appears problematic on screen with this profile please reach out.

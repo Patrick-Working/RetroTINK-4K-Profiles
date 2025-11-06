@@ -1,0 +1,10 @@
+Before you start playing your game
+1) Go to settings on the left of the main PSP screen
+2) Go to "Connected Display Settings" and press X
+3) Go to "Flicker Reduction" and select "Off"
+4) Go to "Component/D-Terminal Ouput"
+4a) If you are playing PSP content, select Progressive
+4b) If you are playing PS1 Content, select Interlace
+5) Hold the "display" button on the PSP until your display comes up on your screen
+6) select the content you want to play
+7) select the profile you want to use

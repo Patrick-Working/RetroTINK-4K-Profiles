@@ -1,0 +1,6 @@
+720p
+CRT Trinitron
+Scanlines only (the Duo ones won’t be visible because the Tink prescales)
+Hard scanlines
+Show overscan
+Heavy Scanlines OFF 

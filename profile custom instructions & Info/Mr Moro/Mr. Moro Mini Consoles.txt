@@ -1,0 +1,34 @@
+Go into the settings for your device
+
+===============================================
+===Super NES Classic Mini & NES Classic Mini===
+===============================================
+
+Find the "Display" option by pressing up and set Pixel Perfect.
+***Note: on some FC Mini and NES Mini, you may need to change HDMI Input range on the RT4K to RGB Lim.
+
+Load the profiles *AFTER* selecting your game.
+Load the Default profile when you need to see the menu clearly
+
+"Super NES SoM" is specifically for Secret of Mana, specifically the menus, but can be used for any game.
+
+==========================
+===Genesis Classic Mini===
+==========================
+This was tested on a USA Genesis Mini. This was not tested on a Genesis Mini 2 but profiles *should* apply (aka YMMV)
+
+Go to Settings > Screen Settings > Select the 4:3 option
+Go to Settings > Wallpaper Settings > Select the black option
+
+For 256 Horizontal genesis games, consult this site
+https://www.firebrandx.com/downloads/Genesis-256-Mode-List.txt
+The Profile "Genesis Mini SF 320 to 256" should only be used for Shining Force. This profile was not tested on a Genesis Mini 2 but should apply to the following games:
+	Bonanza Bros
+	Clay Fighter
+	Fatal Fury 2
+	Midnight Resistance
+	Shining Force II
+	Shining in the Darkness
+	Super Street Fighter II
+	Viewpoint
+	Virtua Racing

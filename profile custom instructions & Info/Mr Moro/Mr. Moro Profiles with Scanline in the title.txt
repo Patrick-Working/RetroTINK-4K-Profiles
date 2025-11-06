@@ -1,0 +1,3 @@
+As of FW 1.3.7 the RT4K pushes the whole image down half a pixel when you activate scanline effects. To counteract that, I made certain profiles that push the image back up and leave scanlines on. These are typically for handhelds.
+
+These profiles have exact counterparts that can be used without scanlines. If you want to play those consoles with scanlines and masks, use the scanline profile. if you want to use the profile without scanlines but want to use a mask, use the non-scanline proile.

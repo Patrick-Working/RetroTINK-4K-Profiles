@@ -1,0 +1,5 @@
+--crop-auto
+--colorspace=rgb709
+--format=custom,offset=0:-80,scaled-size=0x0
+--scan-mode=progressive
+##https://www.gc-forever.com/wiki/index.php?title=Game_Boy_Interface/High-Fidelity_Edition#GCVideo-DVI_v3.0_and_later_2

@@ -1,0 +1,44 @@
+Wii U profile read me:
+
+Your Wii U needs to be set to 720p output resolution. All virtual console apps are rendered in 720p, and then bilinear scaled to 1080p which breaks the profiles in this pack. For HDMI, also make sure the RT4K is set to Limited Range HDMI (profiles are built for this).
+Scanlines can be directly applied to profiles as they have been prescaled/decimated to match the original screen resolution (except side by side screens of differing sizes).
+
+Folder 1: Wii U DS Official
+The profiles in this pack are for the standard DS modelines which most users will have. The profile names try to follow the layout names Nintendo has created. Left handed profiles exist in a sub folder.
+
+Screen focus Full Screen Stretch Sharp
+-Select Upper or Touch screen focus on the Wii U. Scales profiles to fit the full width of the screen using Sharp Bilinear
+
+Screen focus Full Screen Stretch Soft
+-Select Upper or Touch screen focus on the Wii U. Scales profiles to fit the full width of the screen using med bilinear. Meant to emulate n64 visuals. Use with Smoothing function on Wii U (press right stick in)
+Standard Nintendo DS Full Vertical
+-Select the Standard Nintendo DS on the Wii U. Scales profile to fit full vertical of the screen.
+
+Touch Screen Focus Small Screen Full Screen
+-Select Touch screen focus on the Wii U. This makes the touch screen big on the Gamepad, and the upper screen full vertical on the TV. Scanlines can be applied directly. 
+
+Upper Screen Focus Small Screen Full Screen
+-Select Touch screen focus on the Wii U. This makes the upper screen big on the Gamepad, and the touch screen full vertical on the TV. Scanlines can be applied directly.
+
+
+Folder 2: Wii U DS Mikadubbz Layouts
+These profiles are built for the modified .json files created by Mikadubbz on GBA temp. The thread can be found at https://gbatemp.net/threads/add-many-more-screen-layout-options-in-ds-virtual-console-games.574254/
+Easiest way to install these is to overwrite these files on your main DS Inject file as part of the Phacox Wii U injector tool. 
+
+These profiles use a custom .json file which creates new integer scaled options for viewing the screen. You must select the "Pixel Perfect" option when using these profiles. 
+
+PP Dual Screens Full Screen
+-Select the Pixel Perfect Dual screen option on the Wii U. This will make a 3x integer scale image on the TV, and a 2x integer on the gamepad. This stretches to full vertical on the TV. Scanlines can be directly applied.
+
+PP Screen Focus LCD grid Big Screen
+-Select the Pixel Perfect Touch Screen or Upper screen focus on the Wii U. This will apply scanlines on the larger screen. The smaller screen will look pixelated.
+This Wii U screen selection uses the full 720p width, and does not need any additional sampling if you just want 4k, use a default profile.
+
+PP Side by Side Full Screen
+-Select Pixel Perfect Side-by-side Screens option on the Wii U. This will stretch them to full width. Scanlines can be applied.
+
+PP Standard DS Full Vertical
+-Select Pixel Perfect Standard DS option on the Wii U. This will stretch to full vertical. 
+
+PP Vertical Screens Full Vertical
+-Select Pixel Perfect Vertical Screens (right or left handed) option on the Wii U. This is for book style games. The Gamepad controls will not match the screen if it’s rotated in TATE mode. Someday would like to look into this more. 

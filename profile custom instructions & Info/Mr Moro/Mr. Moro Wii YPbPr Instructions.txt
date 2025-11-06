@@ -1,0 +1,47 @@
+==================
+===Instructions===
+==================
+
+It's highly reccomended you mod your wii to use the newest version of USB Loader GX.
+The basic profile will work with unmodded Wiis.
+Use the basic profile if you're playing VC games on an unmodded Wii
+
+If you are going to play Virtual Console Games:
+Set the Wii's TV Resolution to SDTV (15HKz)
+These were tested with NTSC versions of games in 15KHz, they will not apply for PAL games or for EDTV (31KHz) resolution mode.
+
+-----------------------------------------
+---Forcing 240p on Applicable VC Games---
+-----------------------------------------
+1) Start a Virtual Console game.
+2) Press the Home button to bring up the Home menu, and then click on Operations Guide.
+3) Attach a Nunchuk controller to your Wii remote (if the classic controller is plugged in, you'll have to remove it to do this).
+4) Press A+1+Z simultaneously (A and 1 are on your Wii remote, Z on your Nunchuk).
+5) You should hear a sound confirming that you've done this correctly. This should activate 240p mode for all VC games that are 240p-compatible.
+
+--------------------------------
+---Super NES and NES profiles---
+--------------------------------
+You will need USB Loader GX
+1) Go into the settings and set Video Width to FrameBuffer
+2) Start the game
+3) select the profile
+
+If you do not have USBLoader GX, use the generic profile
+
+------------------------
+---Mega Drive/Genesis---
+------------------------
+These should work with an unmodded console
+This does not work with genesis games that are 256x224. If you're playing that kind of game try the TG16 Profile
+Untested: You should be able to play Neo Geo games with this profile
+1) Load the game
+2) select the profile
+
+-------------------------------
+---PCE/TurboGrafX 240p Games---
+-------------------------------
+These should work with unmodded consoles
+These will also work with Genesis games that are 256x224.
+This was tested with Castlevania: Rondo of Blood, and Shining force
+These were not tested with games that are forced into 480i.

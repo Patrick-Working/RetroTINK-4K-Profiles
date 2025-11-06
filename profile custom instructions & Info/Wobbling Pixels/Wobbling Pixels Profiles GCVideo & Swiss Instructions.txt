@@ -1,0 +1,48 @@
+--------------------------------------------
+Wobbling Pixels NTSC & PAL GCVideo Profiles
+--------------------------------------------
+
+Notes:
+-------
+- PAL games forced to "Progressive Mode" switch to 480p (NTSC)
+- PAL games with enabled "60 Hz" option switch to 480i (NTSC)
+
+---------------------
+GCVideo instructions:
+---------------------
+
+These are universal settings which work with all GCvideo profiles! 
+
+1. Access GCvideo settings by pressing and holding L, R, X and Y buttons on the GC controller.
+Set the following settings in GCvideo:
+
+In the GCVideo menu under "Other settings", set "Enhanced DVI mode" to On.
+In the GCVideo menu under "Advanced settings", set "Fix resolution" to Off and "Digital color format" to YC422. 
+
+2. Save the settings
+
+--------------------------------------------------------------
+Swiss Instructions for "HDMI GCVideo & Swiss R4K Opt" profiles
+--------------------------------------------------------------
+
+Benefits of the "Optimise for RT4K" mode:
+
+- disables internal vertical and horizontal scaling by the game for sharper image
+- moves the image to the top of the canvas to lower latency
+
+IMPORTANT: Swiss "Optimise for RT4K" is only supported with digital output (tested with GCVideo) and Gamecube Games!
+It's not supported with analog output (Composite, Component, S-Video, RGB cables) nor
+GBA, GBC, GB games!
+
+1. Make sure you use the latest Swiss version!
+
+2. Set in the global Swiss settings "Optimise for RT4K" to ON 
+   (The option is displayed on the first page at the bottom - scroll down!)
+
+3. Make sure "Force Video Mode" to "Auto". 
+
+4. Make sure you use the GCvideo settings above.
+
+5. Boot up your game. 
+
+6. Load the default profile or one of the 4-3 or 16-9 R4k profiles

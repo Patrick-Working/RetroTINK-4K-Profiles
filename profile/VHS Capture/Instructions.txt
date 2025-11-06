@@ -1,0 +1,7 @@
+On the RT4K:
+Set Input to Composite
+In the HDMI Output menu (press OUT button), set Sync Lock to Triple Buffer
+In the OSD/Firmware menu, set Hide Input Res to On
+In the Processing/Effects menu, set Horizontal & Vertical Kernel to Lanczos3
+In SDP Decoder Setup (press ADC button) set 2D Y/C Filter to 2D Adaptive
+In SDP Decoder Setup (press ADC button) set chroma bandwidth to High

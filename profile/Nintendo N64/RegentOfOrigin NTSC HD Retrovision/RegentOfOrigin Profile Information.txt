@@ -1,0 +1,31 @@
+RetroTINK-4K Nintendo 64 Profiles - HD Retrovision
+Creator: RegentOfOrigin - Twitter: https://twitter.com/RegentOfOrigin
+Version: 1.00
+
+--------------
+Optimized for:
+--------------
+- N64 NTSC games
+- 4K (3840 x 2160) output resolution
+- HD Retrovision component cables
+
+------------
+Instructions
+------------
+- Plug in your console
+- Load the profile
+- Turn on the console
+- Hit "PHA" on the remote
+- If you like, adjust gain on a screen with sufficient solid (pure) white patch
+
+If the resolution changes to a new resolution for the first time, press "PHA" again.
+
+Save your changes to the profile to persist phase changes.
+----------------
+Important notes:
+----------------
+- For games with widescreen support set "Aspect Ratio Correction" to 16:9 on the R4k (and your TV)
+       
+
+
+

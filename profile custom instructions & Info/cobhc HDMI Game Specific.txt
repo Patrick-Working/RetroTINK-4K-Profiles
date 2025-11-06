@@ -1,0 +1,4 @@
+1. Set console output to 1080p.
+2. Set border to "None".
+3. Set screen size in game to "Original".
+4. Set filter in game to "None/Off".

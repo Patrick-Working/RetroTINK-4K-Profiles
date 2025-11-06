@@ -1,0 +1,71 @@
+GB/GBC/GBA Profiles can work with any input with the game screen integer scaled and centered. The default is HDMI with 1080p 7x scale. 
+*Decimation settings may need to be changed depending on your input source*
+
+++++++++++++++++++++++++++
+   Analogue Pocket DMG
+++++++++++++++++++++++++++
+
+-Display Scale set to 7x or Integer if using OpenFPGA
+-Set the color palette to grayscale in the Pocket settings:
+“Settings/Pocket/System/GB/Video/Color Palette”
+
+
+
+++++++++++++++++++++++++++
+  Analogue Pocket GBC/GBA
+++++++++++++++++++++++++++
+
+-Set Display Mode to Analogue 
+-Display Scale set to 7x or Integer if using OpenFPGA
+
+
+
+++++++++++++++++++++++++++
+      Real Hardware 
+  (Consolizer, GBI, GBP)
+++++++++++++++++++++++++++
+
+-Press Left+B to enable a greyscale color palette
+
+
+
+++++++++++++++++++++++++++
+        Switch DMG
+++++++++++++++++++++++++++
+
+-Turn off any screen filters
+-Make sure the color is greyscale
+
+
+
+++++++++++++++++++++++++++
+      Switch GBC/GBA
+++++++++++++++++++++++++++
+
+-Turn off any filters
+
+
+
+++++++++++++++++++++++++++
+      Super Game Boy
+++++++++++++++++++++++++++
+ - Change color palette in SGB menu to 2H for greyscale
+
+
+
+++++++++++++++++++++++++++
+   DMG Contrast Options
+++++++++++++++++++++++++++
+The original Gameboy screen is notorious for its low contrast and non-backlit screen. For the sake of nostalgia, I have 
+created 5 custom CSC files for replicating the original DMG screen; each more faded and low quality from the last.
+
+
+Located at "csc/Billgonzo DMG Contrast Options" there are DMG CSC files 1-5 that simulate different contrast settings.
+
+- "Billgonzo - DMG - Contrast 1" Highest contrast and clearer image but with a less authentic look to the original
+- "Billgonzo - DMG - Contrast 2" Diminished contrast while retaining image clarity. A nice middle ground.
+- "Billgonzo - DMG - Contrast 3" Balance between how the original screen looked with a boost in clarity. Truest to the original.
+- "Billgonzo - DMG - Contrast 4" Extreme lack of contrast and clarity. Resembles playing in less than ideal lighting situation (always)
+- "Billgonzo - DMG - Contrast 5" What we still managed to play Mario Land 2 on, despite how nearly impossible it is to see what's going on.
+  
+

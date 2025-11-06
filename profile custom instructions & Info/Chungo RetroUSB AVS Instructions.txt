@@ -1,0 +1,8 @@
+Pixel Aspect should be all the way to the left for 1:1 pixel mapping
+Make sure Interpolation is turned off
+
+below are links to NES color Pallets made by FirebrandX who also helped make the DAR profiles.
+AVS firmware needs to be 1.52 which can be found here: https://www.retrousb.com/product_info.php?cPath=36&products_id=78
+personally i recommend the Digital Prime Pallet
+Latest here: http://www.firebrandx.com/nespalettes.html
+Pallets meant for NESRGB mods here: http://www.firebrandx.com/nespalette.html

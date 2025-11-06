@@ -1,0 +1,89 @@
+
+RetroTINK-4K profile instructions for use with GCVideo, Swiss, and/or Game Boy Interface by Extrems:
+
+
+Note: To enter the OSD for GCVideo, hold L, R, Y, and X until the OSD appears.
+
+
+Standard Gamecube GCVideo profiles using Swiss:
+
+1. Use Swiss to force 480p vertical.
+
+2. In the GCVideo menu under "Output settings", set "Enhanced DVI mode" to On.
+
+3. In the GCVideo menu under "Advanced settings", make sure "Fix resolution" is set to ON and set "Digital color format" to YC422.
+
+4. Save the GCVideo settings and exit the OSD.
+
+5. Load the appropriate RT4K profile.
+
+
+
+Game Boy Interface High Fidelity Profiles (You'll need to use gbihf-rt4k-hdmi.dol+cli):
+
+1. My profiles are based on GCVideo-DVI v3.0 and later (please update to current firmware 3.1).
+
+2. In the GCVideo menu under "Output settings", set "Enhanced DVI mode" to On.
+
+3. In the GCVideo menu under "Advanced settings", set "Digital color format" to YC422 and "Fix resolution" to OFF.
+
+4. Save the GCVideo settings and exit the OSD.
+
+5. *Load the 13x profile for GBA, GB, or GBC, (optionally there is a 15x profile for full vertical GB and GBC).
+
+
+* My profiles have all the settings Extrems suggests to use. However, if you intend to use a color profile or 3D LUT, you'll need to go into "Advanced Settings" >> "Processing/Effects", and under "Gamma/Linear Light/HDR", set "Bit Crush" to Off. My profile assumes default color and uses 3 bits removed as per Extrems's instructions.
+
+
+
+Gamecube GCVideo profiles using Swiss set to 1:1 PAR (designed to override internal stretch):
+
+1. Use Swiss to force 480p vertical.
+
+2. Use Swiss to set Horizontal Scale to 1:1. The RT4K profiles for this setting will use external aspect correction for a MUCH better picture quality.
+
+3. Use the same GCVideo settings as listed for Game Boy Interface
+
+4. Load the appropriate RT4K profile using the reference guide below.
+
+
+Below is a sample list of NTSC-U games that make use of various internal horizontal stretch correction:  
+
+512 to 640 stretch:
+
+Italian Job, The
+Metal Gear Solid: Twin Snakes
+Pac-Man World 3
+Prince of Persia: The Two Thrones
+Prince of Persia: Warrior Within
+Star Wars Rogue Squadron III: Rebel Strike
+Wario World
+
+
+608 to 666 Stretch:
+
+Donkey Kong Jungle Beat
+Fire Emblem Path of Radiance
+Game Boy Player Start-up Disc
+Legend of Zelda: The Four Swords Adventure
+Legend of Zelda: Twilight Princess
+Mario Kart: Double Dash!!
+Pikmin 2
+Pokémon Box: Ruby and Sapphire
+
+
+640 to 660 Stretch:
+
+Battalion Wars
+Donkey Konga
+Hunter: The Reckoning
+Legend of Zelda: The Wind Waker
+Metroid Prime
+Metroid Prime 2: Echoes
+Pokémon XD: Gale of Darkness 
+Star Fox Adventures
+Super Mario Sunshine 
+
+
+
+

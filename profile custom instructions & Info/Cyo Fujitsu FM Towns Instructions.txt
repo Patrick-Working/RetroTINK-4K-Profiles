@@ -1,0 +1,34 @@
+Retrotink 4K Fujitsu FM Towns 24khz Profile
+Creator: Cyo - Twitter: https://twitter.com/cyothevile
+Version: 1.00
+
+--------------
+For use with the following models:
+--------------
+- All tower models
+	- MODEL 1, MODEL2, S1, S2
+	- 1F, 2F, 1H, 2H, SF, SH
+	- 10F, 20F, 40H, 80H
+	- CX10, CX20, CX40, CX100, SF2, SH2
+- All of the "All in one" models with CRT built in
+	- UX10, UX20, UX40, UG10, UG20, UG40, UG80
+	- UR20, UR40, UR80
+- Grey Desktops
+	- HG20, HG40, HG100, SG20, SG40
+	- HR20, HR100, HR200, SR20, SR100
+
+-As far as I understand, all white desktops should perform internal 24khz to 31khz conversion.
+
+The profile should allow most 24khz video modes to display fully on screen without any problems.  The FM Towns IPL screen as well as Eye of the Beholder 2 Intro display perfectly and are playable/readable without the screen being cut off.
+
+----------------
+Important notes:
+----------------
+
+Most modes encountered for this are running at:
+	-53.6049 Pclk rate
+	-Horizontal is 24.37 Khz
+	-Vertical is 55.38 Hz
+	-Both Sync polarities are negative
+
+If you observe another 24khz mode that visually appears problematic on screen with this profile please reach out.

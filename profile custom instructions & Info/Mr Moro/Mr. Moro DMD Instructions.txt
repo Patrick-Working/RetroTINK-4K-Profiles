@@ -1,0 +1,31 @@
+Every profile starts with the masks off, scaling set to auto-fill-integer, and all trim values at +1 their intended value
+This was set with firmware 1.7.2.
+These do not work for games that are 384x240p, 512x240p, or 640x240p. the circles would be too small otherwise.
+
+Step 1: Go into Scaling and set Trim such that you reach the edge of the picture (no more black) Basically the picture should be a perfectly centered 320x224 or 256x224
+Step 2: Also in scaling, follow the instructions below
+Step 3: go into post processing and turn masks on.
+
+Step 2 Instructions:
+Profiles named GBA or GBC
+	It should already be centered and nothing else needs to be done, proceed to step 3
+Profiles named 09x Square
+	no additional instruction, proceed to step 3
+Profiles named 10x Square
+	Set scaling mode to Proportional
+Profiles named 11x10 or 09x10
+	Set Scaling Mode to Freeform
+
+Additional Info
+Wii:
+	Profiles with the name "Forced" are for any games that should be 256 pixels wide but are scaled to 320. Use with TG16 and Genesis games. Can also be used with NES and Super NES games if you don't have "Video Width: Framebuffer" enabled
+	Profiles with "256" in the name are only for NES and Super NES titles when "Video Width: Framebuffer" is enabled
+
+Super NES:
+	Super GameBoy is a 15x scale and focuses on a centered GameBoy Screen. Change the mask to 10x or 09x if you want to see the whole border
+
+Nintendo Switch:
+	Profiles should work on 1080p and 720p
+
+PS1 and PS2:
+	256 profiles are untested so good luck.
